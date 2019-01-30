@@ -39,7 +39,7 @@ h1 {
 	height: 500px;
 }
 
-img {
+.row img {
 	width: 75%;
 }
 
@@ -53,39 +53,24 @@ img {
 }
 
 hr {
-	margin: 6% 0;
+	margin: 5% 0;
 }
 
-/*body,
-html {
-    width: 100%;
-    height: 100%;
-    font-family: "Lato";
-
-}*/
-
-/*h1 {
-	font-weight: 700;
-	font-size: 5em;
+h4 {
+	font-family: Josefin Slab;
+	font-size: 50px;
+	margin-bottom: 50px;
 }
 
-#cover {
-	width: 100%;
-	padding: 0;
-
-
+.thumbnail {
+	height: 500px;
 }
 
-.navbar-brand {
-	margin-right: 35px;
-	font-size: 1.2em;
-	color: black;
+img {
+	margin-top: 15px;
 }
 
-
-hr {
-    width: 400px;
-    border-top: 1px solid #f8f8f8;
-    border-bottom: 1px solid rgba(0,0,0,0.2);
-}*/
-
+#bigphone {
+	margin-top: 0px;
+	width:45%;
+}
